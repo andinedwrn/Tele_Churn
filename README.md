@@ -1,1 +1,5 @@
-# Tele_Churn
+# Telecomunication company customer churn prediction
+We implemented two types of models: Sequential and Functional, and evaluated their performance using classification metrics such as accuracy, precision, recall, and F1-score. We also compared the base models with improved models by incorporating activation functions, batch normalization, and additional hidden layers.
+Based on the evaluation, we found that the improved models (both Sequential and Functional) performed better than the base models with higher accuracy of 92% for predicting churned customers. These models provide a valuable tool for the company to identify customers who are at a higher risk of churning and take proactive measures to retain them.
+Additionally, continuous monitoring and retraining of the model with new data can help maintain its effectiveness over time.
+Overall, this project demonstrates the application of machine learning techniques to predict customer churn and provides insights for the company to take targeted actions to reduce churn and enhance customer retention.
